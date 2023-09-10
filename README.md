@@ -1,1 +1,1 @@
-# Shop Decor
+# ShopDecor
